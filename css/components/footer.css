@@ -1,0 +1,16 @@
+.footer {
+    text-align: center;
+    padding: 60px;
+    background-color: #312f2f;
+    color: rgb(112, 112, 112);
+    font-family: 'helvetica', sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+}
+  
+.fab {
+    color: rgb(112, 112, 112);
+    font-size: 15px;
+    padding-bottom: 15px;
+
+}

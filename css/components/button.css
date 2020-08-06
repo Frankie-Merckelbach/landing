@@ -1,0 +1,17 @@
+.btn-banner {
+    display: inline-block;
+    background-color: rgb(73, 73, 160);
+    padding: 20px 40px;
+    border-radius: 50px;
+    color: white;
+    margin-left: 100px;
+    opacity: 0.9;
+    transition: opacity 150ms ease-in-out ;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+
+}
+
+.btn-banner:hover {
+    opacity: 1 ;
+}
