@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../02-Card-sprint"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "03-Landing-page"
+	}
+}

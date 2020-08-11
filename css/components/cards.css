@@ -20,3 +20,11 @@
     height: 100px;
     width: 100px;
 }
+
+.card p {
+    color:  rgb(56, 34, 68);
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+
+}
+}
